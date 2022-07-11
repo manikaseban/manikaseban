@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  :cyclone:
- <img align="right" width="340em" height="340em" src="https://raw.github.com/MrYazdan/MrYazdan/main/tech.gif">
+
 
 
 <!--
