@@ -2,8 +2,7 @@
 
  :cyclone:
 <div align="left">
-    <picture align="right">
-        <img align="right" width="340em" height="340em" src="https://raw.github.com/MrYazdan/MrYazdan/main/tech.gif">
+    <img align="right" width="340em" height="340em" src="https://raw.github.com/MrYazdan/MrYazdan/main/tech.gif">
 
 
 <!--
